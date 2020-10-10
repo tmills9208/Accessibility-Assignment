@@ -1,0 +1,14 @@
+
+#btnSignup{
+  color: #000 !important;
+  text-shadow: none !important;
+}
+
+.widget_woothemes_testimonials .quote .author .title, #copyright > p, #credit > p{
+  color: #757575;
+}
+
+a:link, a:visited {
+  color: #2570B1;
+  text-decoration: none;
+}
